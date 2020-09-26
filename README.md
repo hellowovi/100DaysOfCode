@@ -4,7 +4,7 @@
 
 # Day 0
 
- - [ ] HTML Text and List
+ - [X] HTML Text and List
  - [ ] Javascript Functions
  - [ ] Git Basics
  - [ ] Python Basics

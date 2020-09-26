@@ -7,6 +7,6 @@
  - [X] HTML Text and List
  - [ ] Javascript Functions
  - [ ] Git Basics
- - [ ] Python Basics
+ - [X] Python Getting Started
 
 > **Movie Watched :** Spenser Confidential (2020)

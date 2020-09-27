@@ -7,7 +7,7 @@
  - [X] HTML Text and List
  - [X] Python Getting Started
 
-> **Movie Watched :** Spenser Confidential (2020)
+> **🍿 Movie Watched :** Spenser Confidential (2020)
 ---
 
 # Day 1
@@ -17,4 +17,4 @@
  - [ ] Git Basics
  - [X] Python Getting Started
 
-> **Movie Watched :** Shutter Island (2010)
+> **🍿 Movie Watched :** Shutter Island (2010)

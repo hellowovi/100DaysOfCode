@@ -5,8 +5,16 @@
 # Day 0
 
  - [X] HTML Text and List
+ - [X] Python Getting Started
+
+> **Movie Watched :** Spenser Confidential (2020)
+---
+
+# Day 1
+
+ - [X] HTML Text and List
  - [ ] Javascript Functions
  - [ ] Git Basics
  - [X] Python Getting Started
 
-> **Movie Watched :** Spenser Confidential (2020)
+> **Movie Watched :** Shutter Island (2010)

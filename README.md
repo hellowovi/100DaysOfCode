@@ -5,16 +5,23 @@
 # Day 0
 
  - [X] HTML Text and List
- - [X] Python Getting Started
+ - [X] Python: Getting Started
 
 > **🍿 Movie Watched :** Spenser Confidential (2020)
 ---
 
 # Day 1
 
- - [X] HTML Text and List
- - [ ] Javascript Functions
- - [ ] Git Basics
- - [X] Python Getting Started
-
+ - [X] Typography Basics
+ - [X] Javascript: Getting Started with DOM
+ 
 > **🍿 Movie Watched :** Shutter Island (2010)
+---
+
+# Day 2
+
+ - [X] Python: Data Types
+ - [X] Javascript: DOM
+
+> **🍿 Movie Watched :** Pete's Dragon (2016)
+

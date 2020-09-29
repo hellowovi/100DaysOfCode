@@ -24,4 +24,12 @@
  - [X] Javascript: DOM
 
 > **🍿 Movie Watched :** Pete's Dragon (2016)
+---
+
+# Day 3
+
+ - [X] Javascript Revision
+ - [X] Javascript: DOM
+
+> **🍿 Movie Watched :** Unbreakable (2000)
 

@@ -32,4 +32,12 @@
  - [X] Javascript: DOM
 
 > **🍿 Movie Watched :** Unbreakable (2000)
+---
+
+# Day 4
+
+ - [X] Javascript Revision
+ - [X] Markdown
+
+> **🍿 Movie Watched :** Oz The Great And Powerful (2013)
 

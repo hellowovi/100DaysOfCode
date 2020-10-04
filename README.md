@@ -40,4 +40,12 @@
  - [X] Markdown
 
 > **🍿 Movie Watched :** Oz The Great And Powerful (2013)
+---
+
+# Day 5
+
+ - [X] Javascript Revision
+ - [X] Project : Better Wikipedia Chrome Extension
+
+> **🍿 Anime Watched :** Classroom Of The Elite (2017) \[ S01E01 - S01E06 ]
 

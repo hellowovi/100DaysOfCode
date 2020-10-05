@@ -48,4 +48,11 @@
  - [X] Project : Better Wikipedia Chrome Extension
 
 > **🍿 Anime Watched :** Classroom Of The Elite (2017) \[ S01E01 - S01E06 ]
+---
+
+# Day 6
+
+ - [X] Javascript Function: Basics
+
+> **🍿 Anime Watched :** Classroom Of The Elite (2017) \[ S01E07 - S01E12 ]
 

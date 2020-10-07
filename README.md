@@ -62,7 +62,7 @@
  - [X] Javascript Function: Basics
  - [X] Python Statements
 
-> **🍿 Anime Watched :** Sacred Games (2018) \[ S01E01 - S01E08 ]
+> **🍿 TV Series Watched :** Sacred Games (2018) \[ S01E01 - S01E08 ]
 ---
 
 # Day 8

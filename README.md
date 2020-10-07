@@ -55,4 +55,20 @@
  - [X] Javascript Function: Basics
 
 > **🍿 Anime Watched :** Classroom Of The Elite (2017) \[ S01E07 - S01E12 ]
+---
+
+# Day 7
+
+ - [X] Javascript Function: Basics
+ - [X] Python Statements
+
+> **🍿 Anime Watched :** Sacred Games (2018) \[ S01E01 - S01E08 ]
+---
+
+# Day 8
+
+ - [X] Javascript Objects: Basics
+ - [X] Python Functions
+
+> **🍿 Anime Watched :** Fairy Tail (2009) \[ S01E01 - S01E09 ]
 

@@ -31,7 +31,7 @@
  - [X] Javascript Revision
  - [X] Javascript: DOM
 
-> **🍿 Movie Watched :** Unbreakable (2000)
+> **🍿 TV Series Watched :** Unbreakable (2000)
 ---
 
 # Day 4

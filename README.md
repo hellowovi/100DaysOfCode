@@ -71,4 +71,11 @@
  - [X] Python Functions
 
 > **🍿 Anime Watched :** Fairy Tail (2009) \[ S01E01 - S01E09 ]
+---
+
+# Day 9
+
+ - [X] Project: Better Read
+
+> **🍿 Anime Watched :** Sacred Games (2018) \[ S02E01 - S01E03 ]
 

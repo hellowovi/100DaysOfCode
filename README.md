@@ -77,5 +77,19 @@
 
  - [X] Project: Better Read
 
-> **🍿 Anime Watched :** Sacred Games (2018) \[ S02E01 - S01E03 ]
+> **🍿 TV Show Watched :** Sacred Games (2018) \[ S02E01 - S01E03 ]
+---
+
+# Day 9
+
+ - [X] Project: Better Read
+
+> **🍿 TV Show Watched :** Sacred Games (2018) \[ S02E4 - S01E08 ]
+---
+
+# Day 9
+
+ - [X] Project: Beewlix
+
+> **🍿 Anime Watched :** Fairy Tail (2009) \[ S01E10 - S01E12 ]
 

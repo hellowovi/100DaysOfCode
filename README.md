@@ -80,14 +80,14 @@
 > **🍿 TV Show Watched :** Sacred Games (2018) \[ S02E01 - S01E03 ]
 ---
 
-# Day 9
+# Day 10
 
  - [X] Project: Better Read
 
 > **🍿 TV Show Watched :** Sacred Games (2018) \[ S02E4 - S01E08 ]
 ---
 
-# Day 9
+# Day 11
 
  - [X] Project: Beewlix
 
